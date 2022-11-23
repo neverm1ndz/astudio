@@ -611,6 +611,10 @@ h6 {
   border-radius: 2rem;
 }
 
+.since__video iframe {
+  border-radius: 2rem;
+}
+
 .since__body {
   -webkit-box-flex: 0;
       -ms-flex: 0 1 50%;
